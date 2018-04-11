@@ -10,6 +10,8 @@ class App extends Component {
         <div>
           <LinkList />
         </div>
+        <br />
+        <br />
         <div>
           <CreateLink />
         </div>
