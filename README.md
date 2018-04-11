@@ -1,4 +1,5 @@
 # Hackernews clone using :
+
 (well, just add a link + description)
 
 * [Create React App](https://github.com/facebookincubator/create-react-app) to boostrap the front
@@ -8,7 +9,8 @@
 * GraphQL client
 * Apollo React client (react-apollo 2.1 beta, apollo-boost)
 
-It was a POC for [#MarseilleJS6](https://www.meetup.com/fr-FR/FranceJS/events/249454383/) ([@MarseilleJS](https://twitter.com/MarseilleJS) meetup)
+It was a POC for [#MarseilleJS6](https://www.meetup.com/fr-FR/FranceJS/events/249454383/) ([@MarseilleJS](https://twitter.com/MarseilleJS) meetup)\
+Here the [slides](https://slides.com/cycymomo/graphql-apollo)
 
 # How to play with it
 
